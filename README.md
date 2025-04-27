@@ -36,3 +36,14 @@ First, make sure you have **Node.js** and **npm** installed on your computer.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/todo-react-app.git
+
+2. Navigate into the project directory:
+   cd todo-react-app
+
+3. Install dependencies:
+   npm install
+
+4. Start the development server:
+   npm start
+
+The app will open at http://localhost:3000/ automatically!
