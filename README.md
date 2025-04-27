@@ -35,7 +35,7 @@ First, make sure you have **Node.js** and **npm** installed on your computer.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-react-app.git
+   git clone https://github.com/edibuilder/todo-react-app.git
 
 2. Navigate into the project directory:
    cd todo-react-app
